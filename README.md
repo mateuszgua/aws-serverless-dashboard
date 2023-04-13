@@ -23,6 +23,8 @@ List the ready features here:
 - Create diagram with functions,
 - Create an S3 bucket with folders for csv,
 - Create database,
+- Create table from csv file,
+- Create job for create parquet file, use custom code in transformation,
 
 
 ## Screenshots
