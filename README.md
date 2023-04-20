@@ -1,4 +1,4 @@
-# AWS SERVERLESS DASHBOARD
+# AWS SERVERLESS DASHBOARD- Creating diagram with functions,
 > This project show data pipeline with aws glue.
 > Live demo [_here_](#).
 
@@ -20,13 +20,14 @@
 
 ## Features
 List the ready features here:
-- Create diagram with functions,
-- Create an S3 bucket with folders for csv,
-- Create database,
-- Create table from csv file,
-- Create job for create parquet file, use custom code in transformation,
-- Create crawler and table from parquet file,
-- Create athena for show results from database,
+- Creating diagram with functions,
+- Creating an S3 bucket with folders for csv,
+- Creating database,
+- Creating table from csv file,
+- Creating job to create parquet file, use custom code in transformation,
+- Creating crawler and table from parquet file,
+- Creating athena to show results from database,
+- Creating quicksight to create dashboard,
 
 
 ## Screenshots
@@ -36,7 +37,7 @@ Page with project workflow
 ![Example screenshot](#)
 
 ## Project Status
-Project is: in_progress
+Project is: completed
 
 
 ## Contact
