@@ -25,6 +25,8 @@ List the ready features here:
 - Create database,
 - Create table from csv file,
 - Create job for create parquet file, use custom code in transformation,
+- Create crawler and table from parquet file,
+- Create athena for show results from database,
 
 
 ## Screenshots
